@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: micronaut.upload
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, assertj, http-client, java, java-application, jib, junit, logback, maven, mockito, netty-server, readme, shade, yaml]
